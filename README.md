@@ -1,2 +1,2 @@
 # test-repository
-just the 1st repo
+just a 1st repo
